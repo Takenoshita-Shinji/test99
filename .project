@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>Test001</name>
+=======
 	<name>Sample</name>
+>>>>>>> branch 'master' of https://github.com/Takenoshita-Shinji/test99.git
 	<comment></comment>
 	<projects>
 	</projects>
